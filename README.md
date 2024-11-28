@@ -8,7 +8,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://media.tenor.com/O3i0RscRs88AAAAM/anime-girl-anime.gif" alt="GIF" width="140" height="138"/>
+<img src="https://files.catbox.moe/og666h.jpeg" alt="img" width="140" height="138"/>
 </p>
 
 <br>
