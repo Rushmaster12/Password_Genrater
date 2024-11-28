@@ -21,15 +21,9 @@
 <br>
 <br>
 I made this for a fun project, although I'm not sure why I made it. Its a password generator 
+
+
 MADE BY 𝚪𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵𝚪☯️
-
-
-
-
-
-
-
-
 
 <a href="https://github.com/Rushmaster12/"><img src="https://cdn.ironman.my.id/i/5yp4s8.jpeg" width=80 height=80></a>   
 
