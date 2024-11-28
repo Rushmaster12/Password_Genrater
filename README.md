@@ -21,4 +21,3 @@
 <br>
 <br>
 I made this for a fun project, although I'm not sure why I made it. Its a password generator 
-
