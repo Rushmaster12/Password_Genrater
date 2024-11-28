@@ -13,7 +13,7 @@
 
 <br>
 <div align="center">
-<a href='https://Rushmaster12.github.io/Password-Generator/' target="_blank"><img alt='LIVE DEMO' src='https://img.shields.io/badge/Live_Demo-100000?style=for-the-badge&logo= live demo&logoColor=white&labelColor=darkblue&color=darkblue'/></a>
+<a href='https://Loki-xer.github.io/Password-Generator/' target="_blank"><img alt='LIVE DEMO' src='https://img.shields.io/badge/Live_Demo-100000?style=for-the-badge&logo= live demo&logoColor=white&labelColor=darkblue&color=darkblue'/></a>
 
 <br>
 
