@@ -1,7 +1,7 @@
 <p align="middle">
     <a href="https://github.com/Rushmaster12">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Password+Generator+𝚪𝐔𝐒𝚮+𝚳𝚫𝐒𝚻𝚵𝚪☯️"
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Password+Generator+BY+𝚪𝐔𝐒𝚮+𝚳𝚫𝐒𝚻𝚵𝚪☯️"
             alt="Typing SVG"
         />
     </a>
@@ -13,7 +13,7 @@
 
 <br>
 <div align="center">
-<a href='https://Loki-xer.github.io/Password-Generator/' target="_blank"><img alt='LIVE DEMO' src='https://img.shields.io/badge/Live_Demo-100000?style=for-the-badge&logo= live demo&logoColor=white&labelColor=darkblue&color=darkblue'/></a>
+<a href='https://Loki-xer.github.io/Password-Generator/' target="_blank"><img alt='👉START DEMO👈' src='https://img.shields.io/badge/Start_Demo-100000?style=for-the-badge&logo= live demo&logoColor=white&labelColor=darkred&color=darkred'/></a>
 
 <br>
 
