@@ -88,7 +88,7 @@
 
               <input type="checkbox" id="symbols">
 
-              <label for="symbols">Symbols (!-$^+)</label>
+              <label for="symbols">Symbols (!*,:@-$^+)</label>
 
             </li>
 
